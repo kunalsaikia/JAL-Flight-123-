@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Flight path contrail ribbon -->
+    <path
+        android:pathData="M24,78 C36,74 44,68 54,54"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <!-- Boeing 747 Silhouette (Centered in 66dp safe zone) -->
+    <!-- Main fuselage & swept wings -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M54,26 C53,26 51.5,28 51.5,33 L51.5,45 L27,61 L27,65 L51.5,56 L51.5,73 L42,80 L42,83 L54,80 L66,83 L66,80 L56.5,73 L56.5,56 L81,65 L81,61 L56.5,45 L56.5,33 C56.5,28 55,26 54,26 Z" />
+    <!-- Iconic Red Tail Fin Accent (JAL) -->
+    <path
+        android:fillColor="#DC2626"
+        android:pathData="M54,73 L51.5,73 L48.5,82 L54,80 L59.5,82 L56.5,73 Z" />
+    <!-- Jet Engines -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M38,55 L36.5,55 L36.5,58 L38,58 Z M45,52 L43.5,52 L43.5,55 L45,55 Z M63,52 L64.5,52 L64.5,55 L63,55 Z M70,55 L71.5,55 L71.5,58 L70,58 Z" />
+</vector>

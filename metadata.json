@@ -1,0 +1,6 @@
+{
+  "name": "JAL 123",
+  "description": "Interactive 3D trajectory & altitude profile simulator for JAL Flight 123 (Boeing 747 JA8119) with historical FDR telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
